@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+We come in pieces ...
+
 <!--
 **progeja/progeja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
